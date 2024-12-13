@@ -1,0 +1,9 @@
+username
+password
+full_name
+emial
+adreess
+100000.00
+0
+0
+1
